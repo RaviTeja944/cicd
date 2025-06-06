@@ -42,7 +42,7 @@ The primary goal is to demonstrate:
 # 📦 How to Run This Project
 
 ### Step 1: Clone the repository
-git clone https://github.com/VodnalaNaveen/cicd.git
+git clone https://github.com/RaviTeja944/cicd.git
 cd your-repo-name
 
 ### Step 2: Install the dependencies
